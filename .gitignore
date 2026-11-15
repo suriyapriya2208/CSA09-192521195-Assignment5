@@ -1,0 +1,4 @@
+*.class
+*.log
+failed_records.txt
+passes.csv

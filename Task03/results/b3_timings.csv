@@ -1,0 +1,3 @@
+rows,statement_ms,prepared_ms,batch_autocommit_ms,batch_transaction_ms
+1000,8033,7762,160,127
+10000,80817,75201,1253,1125

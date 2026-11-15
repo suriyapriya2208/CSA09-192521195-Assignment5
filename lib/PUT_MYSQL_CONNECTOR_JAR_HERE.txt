@@ -1,0 +1,4 @@
+Download "MySQL Connector/J" (Platform Independent, ZIP/TAR) from
+https://dev.mysql.com/downloads/connector/j/
+and copy the file  mysql-connector-j-x.y.z.jar  into this lib folder.
+Tasks 02, 03 and 04 use it automatically (classpath ../lib/*). Task 01 does not need it.
